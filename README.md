@@ -11,9 +11,14 @@ DSA journey starts here!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
