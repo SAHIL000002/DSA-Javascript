@@ -7,6 +7,7 @@ DSA journey starts here!
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -21,4 +22,8 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
