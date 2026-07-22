@@ -26,4 +26,8 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
