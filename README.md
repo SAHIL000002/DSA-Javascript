@@ -7,12 +7,14 @@ DSA journey starts here!
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -23,6 +25,7 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +46,16 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
