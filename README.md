@@ -13,6 +13,7 @@ DSA journey starts here!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
