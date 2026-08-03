@@ -33,10 +33,12 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
