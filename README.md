@@ -9,6 +9,7 @@ DSA journey starts here!
 | ------- |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ DSA journey starts here!
 | [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -39,6 +41,7 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +62,16 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
