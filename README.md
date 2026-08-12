@@ -10,6 +10,7 @@ DSA journey starts here!
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
+| [1929-concatenation-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -76,4 +77,8 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
