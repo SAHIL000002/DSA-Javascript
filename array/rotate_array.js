@@ -26,3 +26,13 @@ for (let j = 0; j < k2 % arr2.length; j++) {
 
 console.log(arr2);
 
+// rotate left by k element with T.C. (n) and one extra space
+
+arr3 = [1, 2, 3, 4, 5];
+let k3=1;
+temp = new Array(arr3.length);
+for(let i=0;i<arr3.length;i++){
+    temp[i]=arr3[(i+k3)%arr3.length];
+}
+
+console.log(temp);
