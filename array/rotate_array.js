@@ -47,3 +47,21 @@ for (let i = 0; i < arr4.length; i++) {
 }
 
 console.log(temp);
+
+// optimal solution for rotatation by k element
+
+let arr5 = [1, 2, 3, 4, 5];
+let k5 = 1;
+
+revrse(0, (k5 % arr.length) - 1);
+revrse(k5 % arr5.length, arr5.length - 1);
+revrse(0, arr5.length - 1);
+console.log(arr5);
+
+function revrse(i, j) {
+  temp = arr5[i];
+  arr5[i] = arr5[j];
+  arr5[j] = temp;
+  i++;
+  j--;
+}
