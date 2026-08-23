@@ -7,6 +7,7 @@ DSA journey starts here!
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
@@ -17,6 +18,7 @@ DSA journey starts here!
 | ------- |
 | [0007-reverse-integer](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
@@ -33,6 +35,7 @@ DSA journey starts here!
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0344-reverse-string) |
 ## String
