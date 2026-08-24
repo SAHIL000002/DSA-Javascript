@@ -12,6 +12,7 @@ DSA journey starts here!
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@ DSA journey starts here!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
