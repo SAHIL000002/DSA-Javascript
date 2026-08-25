@@ -7,6 +7,7 @@ DSA journey starts here!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ DSA journey starts here!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
