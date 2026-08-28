@@ -7,6 +7,7 @@ DSA journey starts here!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@ DSA journey starts here!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0344-reverse-string) |
