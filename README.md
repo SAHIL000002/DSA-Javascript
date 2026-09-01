@@ -12,6 +12,7 @@ DSA journey starts here!
 | [0033-search-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ DSA journey starts here!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 ## Recursion
