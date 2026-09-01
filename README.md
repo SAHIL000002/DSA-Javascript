@@ -13,6 +13,7 @@ DSA journey starts here!
 | [0035-search-insert-position](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 ## Recursion
@@ -110,4 +112,8 @@ DSA journey starts here!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
