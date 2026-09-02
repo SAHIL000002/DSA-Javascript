@@ -27,6 +27,7 @@ DSA journey starts here!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SAHIL000002/DSA-Javascript/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ DSA journey starts here!
 | [0509-fibonacci-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SAHIL000002/DSA-Javascript/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
