@@ -25,6 +25,7 @@ DSA journey starts here!
 | [0704-binary-search](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ DSA journey starts here!
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ DSA journey starts here!
 | [0075-sort-colors](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
 ## Minimax
 |  |
 | ------- |
