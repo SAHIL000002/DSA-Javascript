@@ -139,4 +139,12 @@ DSA journey starts here!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0053-maximum-subarray) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
