@@ -3,7 +3,7 @@
  * @return {number}
  */
 var majorityElement = function (nums) {
-    let ans = nums[0];
+    let ans;
     let count = 0;
     for (let i = 0; i < nums.length; i++) {
         if (count === 0) {
