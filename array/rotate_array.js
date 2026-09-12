@@ -49,6 +49,7 @@ for (let i = 0; i < arr4.length; i++) {
 console.log(temp);
 
 // optimal solution for rotatation by k element
+// left rotation
 
 let arr5 = [1, 2, 3, 4, 5];
 let k5 = 1;
@@ -65,3 +66,4 @@ function revrse(i, j) {
   i++;
   j--;
 }
+
