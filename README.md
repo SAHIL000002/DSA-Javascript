@@ -29,6 +29,7 @@ DSA journey starts here!
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1752-check-if-array-is-sorted-and-rotated) |
