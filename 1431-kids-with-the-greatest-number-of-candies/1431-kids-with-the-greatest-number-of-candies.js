@@ -5,13 +5,13 @@
  */
 var kidsWithCandies = function (candies, extraCandies) {
     let maxcandie = Math.max(...candies);
-    let result = new Array(candies.length);
+    // let result = new Array(candies.length);
     for (let i = 0; i < candies.length; i++) {
         if ((candies[i] + extraCandies) >= maxcandie) {
-            result[i] = true;
+            candies[i] = true;
         } else {
-            result[i] = false;
+            candies[i] = false;
         }
     }
-    return result;
+    return candies;
 };
