@@ -29,6 +29,7 @@ DSA journey starts here!
 | [0704-binary-search](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1470-shuffle-the-array) |
@@ -70,6 +71,7 @@ DSA journey starts here!
 | [0189-rotate-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -118,6 +120,7 @@ DSA journey starts here!
 | [0169-majority-element](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0977-squares-of-a-sorted-array) |
 ## Minimax
 |  |
