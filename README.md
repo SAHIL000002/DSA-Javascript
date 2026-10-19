@@ -51,6 +51,7 @@ DSA journey starts here!
 | [0877-stone-game](https://github.com/SAHIL000002/DSA-Javascript/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL000002/DSA-Javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/SAHIL000002/DSA-Javascript/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SAHIL000002/DSA-Javascript/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SAHIL000002/DSA-Javascript/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
